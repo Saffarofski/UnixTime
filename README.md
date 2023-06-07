@@ -1,5 +1,5 @@
 # UnixTime
-A simple library for arduino to creat Unix Time 
+A simple library for arduino to create Unix Time 
 
 How to use?
 Simple :
